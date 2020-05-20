@@ -1,4 +1,4 @@
-# SPFx-FrameWork
+# SPFx-FrameWork Developer.
 A Complete guideline to become a sharePoint developer.
 
 # About SPFx-FrameWork
@@ -11,7 +11,7 @@ The SharePoint Framework (SPFx) is a page and web part model that provides full 
 
 # Software requirements:
 * Windows(8.1 or above)/ Linux
-* Code editor (visual studio code/sublime)
+* Code editor ([visual studio code](https://code.visualstudio.com/)/[Sublime](https://www.sublimetext.com/3)/[Atom](https://atom.io/))
 * NodeJS
 * Yeoman
 * Gulp
